@@ -48,5 +48,4 @@
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ghyeok&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghyeok&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
 </div>
