@@ -1,7 +1,7 @@
 
 ## 🧑‍💻 About Me
 - **Contact & Links:**
-  - 📧 Email: dlrjgur1@gmail.com
+  - 📧 Email: dlrjgur1@gmail.com / gulww9997@naver.com
   - 📝 Notion Portfolio: https://www.notion.so/Ghyeok-26f55d93ee238046916fd3d26c943055
   - ✍️ Tech Blog: https://velog.io/@ghlee0205/posts
 
