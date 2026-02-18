@@ -2,9 +2,9 @@
 ## 🧑‍💻 About Me
 - **Contact & Links:**
   - 홍익대학교 컴퓨터공학과 19학번
-  - 📧 Email: [본인 이메일 주소@gmail.com]
-  - 📝 Notion Portfolio: [https://www.notion.so/Ghyeok-26f55d93ee238046916fd3d26c943055](링크 주소)
-  - ✍️ Tech Blog: [https://velog.io/@ghlee0205/posts](링크 주소)
+  - 📧 Email: 본인 이메일 주소@gmail.com
+  - 📝 Notion Portfolio: https://www.notion.so/Ghyeok-26f55d93ee238046916fd3d26c943055
+  - ✍️ Tech Blog: https://velog.io/@ghlee0205/posts
 
 <br/>
 
