@@ -1,9 +1,10 @@
 
 ## 🧑‍💻 About Me
 - **Contact & Links:**
-  - 📧 Email: dlrjgur1@gmail.com / gulww9997@naver.com
-  - 📝 Notion Portfolio: https://www.notion.so/Ghyeok-26f55d93ee238046916fd3d26c943055
-  - ✍️ Tech Blog: https://velog.io/@ghlee0205/posts
+  - 📧 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dlrjgur1@gmail.com)
+  - 📧 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:gulww9997@naver.com)
+  - 📝 Notion Portfolio: [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/Ghyeok-26f55d93ee238046916fd3d26c943055)
+  - ✍️ Tech Blog: [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logoColor=white)](https://velog.io/@ghlee0205/posts)
 
 <br/>
 
