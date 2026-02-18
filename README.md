@@ -32,7 +32,7 @@
 - **개발 기간:** 2025.04 ~ 2025.09 (6개월)
 - **개발 인원:** 8인 팀 프로젝트 (기획 2, 프로그래밍 2, 아트 3, 사운드 1)
 - **사용 기술:** `C#`, `Unity`
-- **상세 보기:** <a href="https://github.com/Ghyeok/Dreaming_Railway"><img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white" align="middle" alt="GitHub Repo"/></a>
+- **상세 보기:** <a href="https://github.com/Ghyeok/Dreaming_Railway"><img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white" align="absmiddle" alt="GitHub Repo"/></a>
 
 <br/>
 
