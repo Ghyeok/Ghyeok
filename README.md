@@ -32,7 +32,7 @@
 - **개발 기간:** 2025.04 ~ 2025.09 (6개월)
 - **개발 인원:** 8인 팀 프로젝트 (기획 2, 프로그래밍 2, 아트 3, 사운드 1)
 - **사용 기술:** `C#`, `Unity`
-- **상세 보기:** - **상세 보기:** [[👉 GitHub Repository로 이동하기]([레포지토리 링크])](https://github.com/Ghyeok/Dreaming_Railway)
+- **상세 보기:** https://github.com/Ghyeok/Dreaming_Railway
 
 <br/>
 
@@ -46,7 +46,7 @@
 - **개발 기간:** 2025.03 ~ 2025.11 (9개월)
 - **개발 인원:** 2인 팀 프로젝트 (프로그래밍 2)
 - **사용 기술:** `C#`, `Unity`
-- **상세 보기:** [[👉 GitHub Repository로 이동하기]([레포지토리 링크])](https://github.com/Ghyeok/DayNightChef)
+- **상세 보기:** https://github.com/Ghyeok/DayNightChef
 
 <br/>
 
