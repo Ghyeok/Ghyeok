@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Game+Client+Developer; alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Ghyeok!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Game%20Client%20Developer&descAlignY=55&descAlign=50" alt="header">
 </div>
 
 ## 🧑‍💻 About Me
