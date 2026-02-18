@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Game+Client+Developer;Optimization+%26+Rendering;Unity+%2B+C%23+Master" alt="Typing SVG">
+</div>
+
 ## 🧑‍💻 About Me
 - **Contact & Links:**
   - **Email:** <a href="mailto:dlrjgur1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" align="absmiddle" alt="Gmail"/></a> <a href="mailto:gulww9997@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" align="absmiddle" alt="Naver"/></a>
