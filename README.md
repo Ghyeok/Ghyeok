@@ -47,5 +47,5 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghyeok&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghyeok&show_icons=true&theme=dracula)
 </div>
