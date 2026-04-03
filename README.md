@@ -2,7 +2,6 @@
 - **Contact & Links:**
   - **Email:** <a href="mailto:dlrjgur1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" align="absmiddle" alt="Gmail"/></a> <a href="mailto:gulww9997@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" align="absmiddle" alt="Naver"/></a>
   - **Notion:** <a href="https://www.notion.so/Ghyeok-26f55d93ee238046916fd3d26c943055"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" align="absmiddle" alt="Notion"/></a>
-  - **Tech Blog:** <a href="https://velog.io/@ghlee0205/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logoColor=white" align="absmiddle" alt="Velog"/></a>
 
 <br/>
 
@@ -39,7 +38,7 @@
 </div>
 
 - **개발 기간:** 2025.03 ~ 2025.11 (9개월)
-- **개발 인원:** 2명 (프로그래밍 2)
+- **개발 인원:** 2명 (기획 1, 프로그래밍 2)
 - **사용 기술:** `C#`, `Unity`
 - **상세 보기:** <a href="https://github.com/Ghyeok/DayNightChef"><img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white" align="absmiddle" alt="GitHub Repo"/></a>
 
