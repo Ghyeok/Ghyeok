@@ -43,7 +43,3 @@
 - **상세 보기:** <a href="https://github.com/Ghyeok/DayNightChef"><img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white" align="absmiddle" alt="GitHub Repo"/></a>
 
 <br/>
-
-## 📈 GitHub Stats
-<div align="center">
-</div>
