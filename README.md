@@ -37,6 +37,7 @@
 > **프로젝트 소개:** 2025년 홍익대학교 컴퓨터공학과 졸업프로젝트 <div align="center">
   
 </div>
+
 - **Notion:** <a href="https://www.notion.so/Day-Night-Chef-26f55d93ee2380cc9688d683387f51a6?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" align="absmiddle" alt="Notion"/>
 - **개발 기간:** 2025.03 ~ 2025.11 (9개월)
 - **개발 인원:** 2명 (기획 1, 프로그래밍 2)
