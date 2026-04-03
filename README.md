@@ -26,6 +26,7 @@
   
 </div>
 
+- **Notion:** <a href="https://www.notion.so/Dreaming-Railway-26f55d93ee23814e82c7c66f6dec8942?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" align="absmiddle" alt="Notion"/>
 - **개발 기간:** 2025.04 ~ 2025.09 (6개월)
 - **개발 인원:** 8명 (기획 2, 프로그래밍 2, 아트 3, 사운드 1)
 - **사용 기술:** `C#`, `Unity`
