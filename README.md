@@ -22,6 +22,7 @@
 
 ### Dreaming Railway
 > **프로젝트 소개:** 2025년 1학기 홍익대학교 게임개발 동아리 ExP Make 학기 프로젝트 <div align="center">
+https://www.notion.so/Dreaming-Railway-26f55d93ee23814e82c7c66f6dec8942?source=copy_link
   
 </div>
 
